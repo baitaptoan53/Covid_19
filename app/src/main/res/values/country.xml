@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>Việt Nam</item>
+        <item>Thái Lan</item>
+        <item>Trung Quốc</item>
+        <item>Ấn Độ</item>
+    </string-array>
+</resources>
