@@ -13,4 +13,12 @@
     <string name="menu_article">Article</string>
     <string name="menu_news">News</string>
     <string name="menu_help">Help</string>
+    <string name="slide_1_heading">Wear a Mask</string>
+    <string name="slide_2_heading">Hand Wash and Sanitize</string>
+    <string name="slide_3_heading">Physical Distancing</string>
+
+    <string name="slide_1_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
+    <string name="slide_2_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
+    <string name="slide_3_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat felis sit eget euismod et vulputate. Vitae lacus, maecenas odio ac.</string>
+
 </resources>
